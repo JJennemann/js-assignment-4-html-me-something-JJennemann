@@ -5,7 +5,18 @@ header{
 
 header img{
     width: 100px;
+    border-radius:50%;
+    animation: rotation 15s infinite linear;
 }
+
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
 
 .header-text{
 
@@ -43,3 +54,28 @@ main{
 
 }
 
+.contact{
+   
+
+}
+
+.contact-content{
+    
+}
+
+.text{
+    
+
+}
+
+.contact-title{
+    
+}
+
+.contact-text{
+    
+}
+
+.contact-us{
+
+}
