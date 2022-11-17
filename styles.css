@@ -39,19 +39,32 @@ main{
 }
 
 .spring{
-
+    height: 250px;
+    width: 250px;
+    background-size: 250px 250px;
+    background-image: url(./images/spring-button.png);
+   
 }
 
 .summer{
-
+    height: 250px;
+    width: 250px;
+    background-size: 250px 250px;
+    background-image: url(./images/summer-button.png);
 }
 
 .fall{
-
+    height: 250px;
+    width: 250px;
+    background-size: 250px 250px;
+    background-image: url(./images/fall-button.png);
 }
 
 .winter{
-
+    height: 250px;
+    width: 250px;
+    background-size: 250px 250px;
+    background-image: url(./images/winter-button.png);
 }
 
 .contact{
