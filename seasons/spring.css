@@ -1,0 +1,58 @@
+.container{
+    display:flex;
+    flex-direction:column;
+    
+    
+    border: solid;
+}
+
+.header{
+    display:flex;
+    
+    
+    border:solid;
+}
+
+.header-text{
+
+
+    border:solid;
+}
+
+.header-links{
+    display:flex;
+
+    border:solid;
+}
+
+.season{
+
+
+    border:solid;
+}
+
+#march{
+    border:solid;
+}
+
+.main{
+    border:solid;
+}
+
+.main-section{
+    border:solid;
+}
+
+.image{
+  
+    border:solid;
+}
+
+.image img{
+    width:150px;
+}
+
+
+.text{
+    border:solid;
+}
