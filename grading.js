@@ -12,3 +12,5 @@ jasmine.loadConfig({
 });
 
 jasmine.execute();
+
+cd
